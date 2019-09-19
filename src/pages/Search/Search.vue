@@ -1,6 +1,6 @@
 <template>
     <div>
-        APP
+        Search
     </div>
 </template>
 <script>

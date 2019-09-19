@@ -1,6 +1,6 @@
 <template>
     <div>
-        APP
+        FooterGuide
     </div>
 </template>
 <script>
